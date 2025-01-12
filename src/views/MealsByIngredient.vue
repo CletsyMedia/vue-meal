@@ -1,6 +1,6 @@
 <template>
     <div>
-        Meal List
+      Meals By Ingredient
     </div>
 </template>
 
