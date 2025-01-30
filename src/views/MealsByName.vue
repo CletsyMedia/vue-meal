@@ -8,11 +8,12 @@
       placeholder="Search for meals..."
       class="rounded-l-md bg-white w-full max-w-full border border-gray-300 outline-none focus:ring-[0.2px] focus:ring-blue-400 focus:border-blue-400 p-3"
     />
+
     <button
       @click="searchMeals"
       class="bg-blue-500 text-white px-6 py-[.8rem] rounded-r-md hover:bg-blue-600 transition-all focus:ring-[0.2px] focus:ring-blue-400"
     >
-      Search
+      Search meals
     </button>
   </div>
   </div>
