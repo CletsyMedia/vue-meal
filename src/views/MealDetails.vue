@@ -101,7 +101,7 @@
             rel="noopener noreferrer"
             class="text-blue-600 hover:underline"
           >
-            Click here for the original recipe source
+            Click here for more original recipe source
           </a>
         </div>
 
