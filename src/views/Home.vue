@@ -26,7 +26,7 @@
 <script setup>
 import { computed, onMounted, ref } from "vue";
 import store from "../store";
-import axiosInstance from "../axiosClient";
+import axiosInstance from "../api/axiosClient";
 
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const ingredients = ref([]);
